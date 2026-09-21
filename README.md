@@ -1,11 +1,3 @@
-<div align="center">
-
-### building things that think.
-
-</div>
-
----
-
 ai engineer [@BOI](https://github.com/Board-of-Innovation) · lisbon
 
 i like making machines see, read, and decide. mostly python, sometimes regret.
